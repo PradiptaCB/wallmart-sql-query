@@ -1,4 +1,4 @@
-# wallmart-sql-query
+# wallmart-sql
 
 Walmart Sales Data Analysis
 About
